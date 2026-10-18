@@ -131,14 +131,6 @@ environment variables `PV2MVEG_LAYOUT`, `PV2MVEG_DATA_ROOT`, `PV2MVEG_PROJECT_RO
 `PV2MVEG_FONT`. Outputs go to `output/` (`figures/`, `figdata/`, `numbers/`, `tables/`, `checks/`, and
 `analysis/v12/` for the analysis). No path of the authors' machines is hard-coded.
 
-### Figure font
-
-The published figures use `times+simsun.ttf`, a TrueType file that combines Times New Roman with SimSun; it is not
-redistributed. Set `font` in `config/paths.toml` or `PV2MVEG_FONT` to a copy of it for pixel-identical figures.
-Without it the figures fall back to STIXGeneral (bundled with matplotlib): same data, layout rules and colours,
-slightly different glyph widths, so the PNG files differ from the published ones while numbers, tables and
-plotted values stay identical.
-
 ## Environment
 
 `requirements.txt` pins every package imported by the verification runs, at the versions of the authors'
