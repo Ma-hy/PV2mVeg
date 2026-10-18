@@ -1,0 +1,125 @@
+{
+ "description": "Published v2.0 figures (PNG, 500 dpi): pixel size and SHA-256 of the RGBA pixel array (row-major, 8 bit).",
+ "figures": {
+  "Fig1": {
+   "width": 3248,
+   "height": 2952,
+   "rgba_sha256": "6c719ad3175a0f42ef4a4139cb4331652fbb4c0a71999debf80fa135b4178cd5",
+   "png_sha256": "fa03b860c03b4dd7c8133de24a8ae8b26d82a840c50cc94af94531d2953ee34a"
+  },
+  "Fig2": {
+   "width": 3248,
+   "height": 2795,
+   "rgba_sha256": "a659e65673928ac9c7b222b69a2b4618a72583cda4966c15fbf959c8c03c39e7",
+   "png_sha256": "5acb918e899a82d1e7ce298926b6045169b928ca94f170091e1c30b3d10fa5e0"
+  },
+  "Fig3": {
+   "width": 3248,
+   "height": 2440,
+   "rgba_sha256": "59fb5cc1d29843cdcd4e3dc817f4dcba5324f6501f5fd57b9e6ecaa71f99654f",
+   "png_sha256": "f5380e524fb35225137e79dc034b409ab0b15ee1a3f5b25ea7509c560cc93827"
+  },
+  "Fig4": {
+   "width": 3248,
+   "height": 2755,
+   "rgba_sha256": "3a2053427cb4442c3b38b638d772c701036894938ebf24b4e16261c426df6c41",
+   "png_sha256": "647cb16e4d56354bfbb38ecf5eed362747af20122dfa8d1b9fa34c7c002158ad"
+  },
+  "Fig5": {
+   "width": 3248,
+   "height": 3110,
+   "rgba_sha256": "158010afdaff75cb8b1c37e54a2c68ed0786a54cb14ad6627e2eca562329c4f5",
+   "png_sha256": "befcd35a3f620bf15cb936cc93bb0fc3cc15a85838d672ec9679eac2e2769d9b"
+  },
+  "Fig6": {
+   "width": 3248,
+   "height": 1732,
+   "rgba_sha256": "a26887c78e89deb0ed59403e32ad2a5c156eeeb3f74d45c1fd23ebad5b79680b",
+   "png_sha256": "2a984a512a5d440d5849774bedb910d5df309aac20b3444fb0c141f1d32a51c6"
+  },
+  "Fig7": {
+   "width": 3248,
+   "height": 2165,
+   "rgba_sha256": "98d61af1a2caa188773d8ae2592aca502917d569ed65778504958dec58ff3de1",
+   "png_sha256": "0661f88bd0544e735ad8f20620e84d023927e5053eea17e563769ea453a3360e"
+  },
+  "Fig8": {
+   "width": 3248,
+   "height": 2037,
+   "rgba_sha256": "ac7d06b2b95bda95e1ac6c4f99dfe0de9d6ecf1c0b5f388ceee2335ec2f0b885",
+   "png_sha256": "7c3f7fd69c0b241f4572c89a67b6de634ef2249057e04cf5fc7d6f233327889f"
+  },
+  "FigS1": {
+   "width": 3740,
+   "height": 3503,
+   "rgba_sha256": "ad3181434c51f2e54260cbc76f83ccbd5f55ab392b67aae6de161a8307ac6bbd",
+   "png_sha256": "767e5287168051efcf7ed3a23032e35c270699501ba57f4d6a9bd9a8a6dde9ff"
+  },
+  "FigS2": {
+   "width": 3740,
+   "height": 2755,
+   "rgba_sha256": "4759ae0824c6ee53ce3cb005be3c48ca909a825b6f3fbc0f1fab849622b11f46",
+   "png_sha256": "eff051333f1d45e3ef7159668700c1d4bcae66993e18c9bd21e67317f37ef4c8"
+  },
+  "FigS3": {
+   "width": 3694,
+   "height": 4144,
+   "rgba_sha256": "b1765e341c089b2cda661f45c72f3e6043d9eb4a952b5f6210cdbb5e6fcda89f",
+   "png_sha256": "cc40dec257665df061814e69dc7d37f40129925928d1c22c38135df20f734c8c"
+  },
+  "FigS4": {
+   "width": 3248,
+   "height": 2952,
+   "rgba_sha256": "17bc82c16463c302afb2a757c51574bf2cb968f018a9f3215325886e83cfbf7a",
+   "png_sha256": "739591050a322c3d00bafb9de08ae0b8991abb09984bc49650a44e7f9c07a575"
+  },
+  "FigS5": {
+   "width": 3248,
+   "height": 1377,
+   "rgba_sha256": "c9b9ebfcc294bbd343ac3c13046f8fb593221dc3826ac723f1a6cc8d0a4f0d11",
+   "png_sha256": "a94ff0d20821c6bdc7308af59b8ce78b5506298ac791c631bccd0e4206f9a725"
+  },
+  "FigS6": {
+   "width": 3248,
+   "height": 1299,
+   "rgba_sha256": "e05986fda6791bfe1a539a9fed656458589880c794da9eb5b230c5683576d487",
+   "png_sha256": "792d9822cbb01629fd11464ef13d399c621ce1b0bd54e059914fdb2f431a51ad"
+  },
+  "FigS7": {
+   "width": 3248,
+   "height": 1377,
+   "rgba_sha256": "b840f254c0bbe188191af10d51c44f50d927d05427730fe878abd93b5921f16c",
+   "png_sha256": "a01f1a26c1596c07a8b9fc7b7428ecfbe985d3600e1e06c0270b5d73d0b2000b"
+  },
+  "FigS8": {
+   "width": 3248,
+   "height": 1811,
+   "rgba_sha256": "9ae6f8b92b8b90032fed86704eeae447b9d445b9896d0993d71aa5f8fe8c3d4b",
+   "png_sha256": "7b307dba2721ccca0577c1d2ce2832b8cbd4b48d5f370cc6a736555358b3acb7"
+  },
+  "FigS9": {
+   "width": 3248,
+   "height": 1929,
+   "rgba_sha256": "a43820babd5dba573ded6af6b65493a61ed9a4b850681e8840d0cff2ad7fe177",
+   "png_sha256": "cb274914cc3e3c3fc59fb047580b5938f94417ba0ade9a4428d14bd53e89499b"
+  },
+  "FigS10": {
+   "width": 3248,
+   "height": 1220,
+   "rgba_sha256": "12262e44d9a9d028d65fd38c7394cd5151671ea88c2c7904447e13b10c6228a9",
+   "png_sha256": "8910d334141508194040a4bd026368075ff96f5c0707f7f4d50c8f6d592835c0"
+  },
+  "FigS11": {
+   "width": 3248,
+   "height": 2952,
+   "rgba_sha256": "a258ca1754c7443f12145c996f40a69c8a1c5cd903efc08e30f2e8295d12e0f3",
+   "png_sha256": "743fa9dd035c53a308a89c6e106e0791ffc9455cb083b57466ff26f107a06e60"
+  },
+  "FigS12": {
+   "width": 3248,
+   "height": 1299,
+   "rgba_sha256": "50380510274dc0288766e394457ab84066d9494ce44ac45b87df87696e6137ec",
+   "png_sha256": "6d7588491a1299ae88ee0c7c12e07ac42d9f58cac92af99a894e2434b14291b2"
+  }
+ }
+}

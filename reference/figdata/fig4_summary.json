@@ -1,0 +1,26 @@
+{
+  "panel_a": {
+    "treated": 6855,
+    "controls": 5922,
+    "links": 60196
+  },
+  "examples": [
+    {
+      "cell": 60587,
+      "age": 4,
+      "controls": 10,
+      "buffer_cells": 424
+    },
+    {
+      "cell": 52539,
+      "age": 8,
+      "controls": 10,
+      "buffer_cells": 452
+    }
+  ],
+  "agreement": {
+    "r": 0.9059046248230923,
+    "mean_diff": -0.001360194181078112,
+    "n": 6823
+  }
+}
