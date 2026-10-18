@@ -1,0 +1,22 @@
+# Paths and settings of the PV2mVeg code (see src/pv2mveg/config.py).
+# Copy this file to config/paths.toml and edit it, or set the environment variables named in the comments.
+# Relative paths are relative to the repository root.
+
+[data]
+# "repo": the de-identified derived data shipped with this repository (data/derived); reproduces every figure,
+#         table and number marked "repository data" in README.md.
+# "project": the data tree of the research project, which also holds the restricted inputs (Beijing-3 products,
+#         station polygons and construction years, unit coordinates); needed for the restricted figures and the
+#         analysis scripts.
+layout = "repo"                      # PV2MVEG_LAYOUT
+data_root = "data/derived"           # PV2MVEG_DATA_ROOT (layout "repo")
+project_root = ""                    # PV2MVEG_PROJECT_ROOT (layout "project"): folder that holds data/ and paper_eco/
+
+[output]
+root = "output"                      # PV2MVEG_OUTPUT: figures/, figdata/, numbers/, tables/, checks/
+
+[figures]
+# TrueType font for all figure text. The published figures used times+simsun.ttf (Times New Roman with SimSun
+# glyphs), which is not redistributed. Leave empty for STIX (bundled with matplotlib): the figures are drawn with
+# the same content, but glyph widths differ, so pixel identity with the published figures needs the original font.
+font = ""                            # PV2MVEG_FONT
