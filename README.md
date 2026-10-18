@@ -3,8 +3,7 @@
 Code and derived data behind the manuscript
 
 > **Quantifying vegetation greenness between photovoltaic panel rows using sub-metre satellite imagery: A case study
-> of the Talatan solar park, China** — version 2.0 (submitted to the *International Journal of Applied Earth
-> Observation and Geoinformation*).
+> of the Gonghe Talatan solar park, China**
 
 This repository is prepared for the review of the manuscript and is not yet public. With the data shipped here it
 reproduces Tables 1–2, the computed supplementary tables, every number quoted in the text and 14 of the 20 figures,
