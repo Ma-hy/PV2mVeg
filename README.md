@@ -170,7 +170,7 @@ are delivered in the folder layout of the project data and used with the layout 
 | Sentinel-2 Level-2A, 2019–2026 (354 scenes); red, NIR, SCL, and blue and green for the visible calibration | Earth Search v1 STAC (Element 84), collections `sentinel-2-c1-l2a` and `sentinel-2-l2a` |
 | Copernicus GLO-30 DEM, tiles N35_E100 and N36_E100 | `copernicus-dem-30m` open bucket (AWS) |
 | ESA WorldCover 10 m 2021 v200, tiles N33E099 and N36E099 | `esa-worldcover` open bucket (AWS) |
-| AgERA5 daily agrometeorological indicators, point series at 100.30°E, 36.01°N, 2000–2025 (version 1.0 for 2000–2022 and 1.1 for 2025 by the names of the downloaded files; not recorded for 2023–2024) | Copernicus Climate Data Store |
+| AgERA5 daily agrometeorological indicators, point series at 100.30°E, 36.01°N, 2000–2025 (version 2.0) | Copernicus Climate Data Store |
 
 ## De-identification and its limits
 
